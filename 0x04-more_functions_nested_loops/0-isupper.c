@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _isupper(int c) - print upper case alphabets
+ * _isupper - print upper case alphabets
+ * @x: parameter
  * Return: always 0
  */
 
